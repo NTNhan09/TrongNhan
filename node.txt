@@ -1,0 +1,18 @@
+git clone
+cd name
+-> tao file 
+git status
+-> tạo flie nodepad ẩn flie ko cần thiết
+git status 
+git add . or (name)
+git status (hiện xanh)
+git commit -m "add new project"
+đăng nhập nếu có
+git push 
+git status 
+
+-git branch (name) - tạo 1 brandch mới
+
+-> git checkout (name brand) chuyển sáng code brand mới ko còn trên file master 
+
+
